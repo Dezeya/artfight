@@ -10,3 +10,5 @@ https://sketchpose.app/
   Fullscreen mode
 https://www.figma.com/design/yS6ImUr4zRwu5I23O7bskZ/Untitled?node-id=0-1&t=YzntHnfYPyg2JteG-1
   reference maker
+https://htmlcolorcodes.com/color-picker/
+  hex code color picker
