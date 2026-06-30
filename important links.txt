@@ -8,3 +8,5 @@ https://sketchpose.app/
   Upload your own references
   Custom timer lengths
   Fullscreen mode
+https://www.figma.com/design/yS6ImUr4zRwu5I23O7bskZ/Untitled?node-id=0-1&t=YzntHnfYPyg2JteG-1
+  reference maker
